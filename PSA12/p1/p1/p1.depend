@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1514265129 source:d:\user\desktop\codeblocks\psa12\p1\main.cpp
+	"Point2D.h"
+
+1514265126 d:\user\desktop\codeblocks\psa12\p1\point2d.h
+	<iostream>
+
+1514265124 source:d:\user\desktop\codeblocks\psa12\p1\point2d.cpp
+	"Point2D.h"
+

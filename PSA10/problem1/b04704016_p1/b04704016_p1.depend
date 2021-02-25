@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1513006226 source:d:\user\desktop\codeblocks\psa10\problem1\main.cpp
+	<iostream>
+	"time.h"
+
+1513063289 d:\user\desktop\codeblocks\psa10\problem1\time.h
+
+1513063289 source:d:\user\desktop\codeblocks\psa10\problem1\time.cpp
+	<iostream>
+	"time.h"
+

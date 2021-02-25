@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1514906167 source:d:\user\desktop\codeblocks\psa13\psa13_p3\p3\main.cpp
+	<iostream>
+	<iomanip>
+	"AveStudent.h"
+
+1514908266 d:\user\desktop\codeblocks\psa13\psa13_p3\p3\avestudent.h
+	<iostream>
+	<string>
+	"Student.h"
+
+1514908262 d:\user\desktop\codeblocks\psa13\psa13_p3\p3\student.h
+	<iostream>
+	<string>
+
+1514908268 source:d:\user\desktop\codeblocks\psa13\psa13_p3\p3\student.cpp
+	"Student.h"
+
+1514908267 source:d:\user\desktop\codeblocks\psa13\psa13_p3\p3\avestudent.cpp
+	"AveStudent.h"
+

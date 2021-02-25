@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1513699938 source:d:\user\desktop\codeblocks\psa11\b04704016_p2\game.cpp
+	"game.h"
+
+1513699724 d:\user\desktop\codeblocks\psa11\b04704016_p2\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+
+1513662959 source:d:\user\desktop\codeblocks\psa11\b04704016_p2\main.cpp
+	"game.h"
+

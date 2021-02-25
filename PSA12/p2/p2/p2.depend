@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1514309197 source:d:\user\desktop\codeblocks\psa12\p2\hugeint.cpp
+	"HugeInt.h"
+
+1514309197 d:\user\desktop\codeblocks\psa12\p2\hugeint.h
+	<iostream>
+	<string>
+	<sstream>
+
+1514309363 source:d:\user\desktop\codeblocks\psa12\p2\main.cpp
+	"HugeInt.h"
+

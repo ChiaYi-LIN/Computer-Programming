@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1514702558 source:d:\user\desktop\codeblocks\psa13\psa13_p2\sample_code\digitalwatch.cpp
+	<iostream>
+	<ctime>
+	"DigitalWatch.h"
+
+1514703960 d:\user\desktop\codeblocks\psa13\psa13_p2\sample_code\digitalwatch.h
+
+1514702554 source:d:\user\desktop\codeblocks\psa13\psa13_p2\sample_code\main.cpp
+	<iostream>
+	"DigitalWatch.h"
+
+1514801724 source:d:\user\desktop\codeblocks\psa13\psa13_p2\p2\psa13_main.cpp
+	<iostream>
+	"DigitalWatch.h"
+
+1514902978 d:\user\desktop\codeblocks\psa13\psa13_p2\p2\digitalwatch.h
+	<iostream>
+	<string>
+	<sstream>
+
+1514910030 source:d:\user\desktop\codeblocks\psa13\psa13_p2\p2\digitalwatch.cpp
+	<iostream>
+	<ctime>
+	"DigitalWatch.h"
+

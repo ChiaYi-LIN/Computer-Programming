@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1513700457 source:d:\user\desktop\codeblocks\psa11\psa11_p1\cylinder.cpp
+	"cylinder.h"
+
+1513700662 d:\user\desktop\codeblocks\psa11\psa11_p1\cylinder.h
+	<iostream>
+	<cmath>
+
+1513700376 source:d:\user\desktop\codeblocks\psa11\psa11_p1\main.cpp
+	"cylinder.h"
+

@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1512999699 source:d:\user\desktop\codeblocks\psa10\psa10\problem2\psap2\ltexture.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"LTexture.h"
+
+1512999720 d:\user\desktop\codeblocks\psa10\psa10\problem2\psap2\ltexture.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<string>
+
+1513058766 source:d:\user\desktop\codeblocks\psa10\psa10\problem2\psap2\main.cpp
+	"ShowTime.h"
+	"LTexture.h"
+	<stdio.h>
+	<string>
+	<sstream>
+
+1513058417 d:\user\desktop\codeblocks\psa10\psa10\problem2\psap2\showtime.h
+
+1513058895 source:d:\user\desktop\codeblocks\psa10\psa10\problem2\psap2\showtime.cpp
+	<stdio.h>
+	"ShowTime.h"
+	"LTexture.h"
+

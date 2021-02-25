@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1511790560 source:d:\user\desktop\codeblocks\psa08\psa08_p1\initroll.cpp
+	"initRoll.hpp"
+
+1511789627 d:\user\desktop\codeblocks\psa08\psa08_p1\initroll.hpp
+	<stdio.h>
+	<iostream>
+
+1511790086 source:d:\user\desktop\codeblocks\psa08\psa08_p1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<ctime>
+	"initRoll.hpp"
+	"reRoll.hpp"
+
+1511789641 d:\user\desktop\codeblocks\psa08\psa08_p1\reroll.hpp
+	<stdio.h>
+	<iostream>
+
+1511790553 source:d:\user\desktop\codeblocks\psa08\psa08_p1\reroll.cpp
+	"reRoll.hpp"
+
