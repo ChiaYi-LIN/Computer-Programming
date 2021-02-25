@@ -1,1 +1,1 @@
-Check this video > [Space Guardian Introduction](https://youtu.be/NpuBpuayfdk)
+Check this out in Youtube: [Space Guardian Introduction](https://youtu.be/NpuBpuayfdk)
